@@ -1,0 +1,26 @@
+{
+    "LogFilePath": "C:\\ActiveDirectoryProvisioning",
+    "LogFileName": "provisioning_log.txt",
+    "BatchImportAttributes": [
+        {
+            "ImportFileField": "OfficePhone",
+            "ActiveDirectoryAttribute": "telephoneNumber"
+        },
+        {
+            "ImportFileField": "OfficePhoneExtension",
+            "ActiveDirectoryAttribute": "extensionAttribute1"
+        },
+        {
+            "ImportFileField": "HomePhone",
+            "ActiveDirectoryAttribute": "homePhone"
+        },
+        {
+            "ImportFileField": "MobilePhone",
+            "ActiveDirectoryAttribute": "mobile"
+        },
+        {
+            "ImportFileField": "FaxNumber",
+            "ActiveDirectoryAttribute": "facsimileTelephoneNumber"
+        }
+    ]
+}

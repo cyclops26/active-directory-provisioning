@@ -1,0 +1,9 @@
+telephoneNumber
+homePhone
+facsimileTelephoneNumber
+mobile
+extensionAttribute1
+
+
+
+sAMAccountName
